@@ -1,1 +1,1 @@
-This repository contains code to reproduce the "Larger forest patches have greater per-area productivity" NEE paper.
+This repository contains code and data to reproduce the main results in the "Larger forest patches have greater per-area productivity" NEE paper.
